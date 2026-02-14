@@ -27,7 +27,7 @@ https://addons.mozilla.org/de/firefox/addon/tampermonkey/
 ### Schritt 2: Script installieren
 
 **EINFACH:**
-1. Klicke hier: [instagram-unlike.user.js](https://raw.githubusercontent.com/DEIN_USERNAME/instagram-auto-unlike/main/instagram-unlike.user.js)
+1. Klicke hier: [instagram-unlike.user.js](https://raw.githubusercontent.com/johnt1997/instagram-auto-unlike/main/instagram-unlike.user.js)
 2. Tampermonkey öffnet sich automatisch
 3. Klicke "Installieren"
 
