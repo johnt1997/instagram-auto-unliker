@@ -1,4 +1,3 @@
-# instagram-auto-unliker
 # 🚀 Instagram Auto Unlike
 
 Automatisches Entfernen von Instagram "Gefällt mir"-Angaben mit Tampermonkey.
